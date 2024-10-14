@@ -16,4 +16,3 @@ Connect to your [Kavita](https://www.kavitareader.com/) server directly from Rul
   
   - I am very lazy. Please refer to this link for the configuration of the plugin: [https://github.com/RuliaReader/plugin.komga](https://github.com/RuliaReader/plugin.komga). 
   - Please note that the value of Authorization should be in this format: 'Bearer xxxxxxxxxxxxxxxxxx'.
-"# plugin.Kavita" 

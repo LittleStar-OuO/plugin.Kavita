@@ -1,0 +1,23 @@
+{
+	"name": "@rulia/Kavita",
+	"title": "Kavita",
+	"description": "Kavita Plugin.",
+	"version": "0.0.1",
+	"author": "LittleStar-OuO",
+	"tags": ["manga", "comic", "Kavita"],
+	"homepage": "https://github.com/LittleStar-OuO/plugin.Kavita",
+	"userConfig": {
+		"baseUrl": {
+			"displayName": "Base URL",
+			"description": "Please provide the base URL of your Kavita server, like: http://192.168.1.1:5000"
+		},
+		"apiKey": {
+			"displayName": "API Key",
+			"description": "Please provide the API Key of your Kavita server, like: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+		},
+		"authorization": {
+			"displayName": "Authorization",
+			"description": "Please use the web developer tools to extract the key for authorization from the webpage's header, like: Bearer xxxxxxxxxxxxxxxxxx"
+		}
+	}
+}
